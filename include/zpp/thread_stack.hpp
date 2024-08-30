@@ -8,7 +8,7 @@
 #define ZPP_INCLUDE_ZPP_THREAD_STACK_HPP
 
 #include <zephyr/kernel.h>
-#include <zephyr/sys/arch_interface.h>
+#include <zephyr/arch/arch_interface.h>
 #include <zephyr/sys/__assert.h>
 
 namespace zpp {
